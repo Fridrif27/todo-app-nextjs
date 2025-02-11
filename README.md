@@ -21,7 +21,7 @@ Before you begin, ensure you have the following installed on your local machine:
 1. Clone the repository to your local machine:
 
    \`\`\`
-   git clone https://github.com/
+   git clone https://github.com/Fridrif27/todo-app-nextjs.git
    \`\`\`
 
 2. Navigate to the project directory:
